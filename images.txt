@@ -4,3 +4,4 @@ ubuntu:14.04
 centos:7
 nvidia/cuda:12.2.2-devel-ubuntu20.04
 nvidia/cuda:12.4.0-devel-centos7
+nvcr.io/nvidia/pytorch:24.05-py3
